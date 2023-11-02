@@ -2,6 +2,7 @@
 
 If you dont have NodeJs, download from - https://nodejs.org/en
 
+How to use?
 1. npm i
 2. Fill wallets.txt with your wallets
 3. Configure network and timeout in .env
